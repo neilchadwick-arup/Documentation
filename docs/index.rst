@@ -1,34 +1,32 @@
-Welcome to MICKA documentation!
+Welcome to AGS Data Format documentation!
 ==================================================
+
+Electronic Transfer of Geotechnical and Geoenvironmental Data using AGS4 
 
 This Documentation provides detailed instuctions on installing and using the MICKA a geospatial metadata catalogue and metadata editing tool. 
 
-(http://micka.bnhelp.cz/)  
-(https://github.com/hsrs-cz/Micka)
+Published by Association of Geotechnical and Geoenvironmental Specialists
 
-Features
+Forward
 #########
-- OGC CSW 2.0.2 ISO AP 1.0
-- ISO 19115/19119/19139
-- Feature Catalogue - ISO 19110
-- INSPIRE extended capabilities
-- Output: ISO 19139, JSON, GeoDCAT, ATOM, KML, HTML, RDFa
-- INSPIRE ATOM download service imlementation
-- Support for remote registries and thesauri (e.g. INSPIRE registry)
+
+The AGS Data Management Working Party continually monitors the use of the AGS format within the industry and strives to ensure its relevance to current working practice.  In response to new laboratory industry standards and updated UK practice the AGS4 Addendum October 2011 document has been updated and amended and shall be known as “AGS 4.0.4”.  Detailed amendments are listed in Appendix 3. The newly defined headings should be viewed as user defined headings and thus, if used, the DICT group needs to be present in the AGS 4.0.4 submission. All current abbreviations are applicable to AGS 4.0.4. Whilst the AGS Format is used throughout the world, this document is specifically written for use in accordance with UK practice.  Guidance notes for its use with other codes and standards are available from the AGS website. 
+
+Jackie Bland - Working Party Chair 2010 - Present 
 
 Contents:
 #########
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
 
+   acknowledgements
    overview
-   admin 
-   users
+   rules 
+   dictionary
    appendices
-   authors
-   
+      
 Indices and tables
 ==================
 
