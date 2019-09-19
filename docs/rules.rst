@@ -1,6 +1,12 @@
-Overview
+Rules
 =============================
 
-MICKA Technical Documentation
-----------------------------------
+The Rules
+##########
+
+Notes on the Rules
+###################
+
+Group Hierarchy
+#################
 
