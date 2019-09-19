@@ -12,6 +12,9 @@ The AGS Data Management Working Party continually monitors the use of the AGS fo
 
 Jackie Bland - Working Party Chair 2010 - Present 
 
+.. image:: images/ags_large.PNG
+  
+
 Contents:
 #########
 
