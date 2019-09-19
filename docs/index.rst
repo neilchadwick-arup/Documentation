@@ -3,7 +3,7 @@ Welcome to AGS Data Format documentation!
 
 Electronic Transfer of Geotechnical and Geoenvironmental Data using AGS4 
 
-This Documentation provides detailed instuctions on installing and using the MICKA a geospatial metadata catalogue and metadata editing tool. 
+This Documentation provides detailed instuctions on the AGS data format 
 
 Published by Association of Geotechnical and Geoenvironmental Specialists
 
