@@ -6,28 +6,27 @@ This document has been prepared by the Association of Geotechnical and Geoenviro
 Working Party Members
 ######################
 
- -Katie Aguilar - Bentley Systems
- -Romain Arnould - Fugro 
- -Mark Bevan - Structural Soils
- -Jackie Bland(chair) - Geotechnics 
- -Neil Chadwick - Arup
- -Jerome Chamfray - Atkins
-
-Roger Chandler - Keynetix
-Tony Daly - Amageo
-David Entwisle - British Geological Survey
-David Farmer - Arup
-Ian Joyce - Bentley Systems
-Ian Linton - Soil Engineering Geoservices Ltd
-Simon Miles - Atkins
-Mike Palmer - CH2M
-Christopher Power - Mott MacDonald
-Syd Pycroft - Blue Anchor Ground Engineering Ltd
-Felicity Sims - CH2M
-Leonard Threadgold - Geotechnics
-Sarah Valentine - ESG
-Stephen Walthall
-Benjamin Wood - British Geological Survey
+- Katie Aguilar - Bentley Systems
+- Romain Arnould - Fugro 
+- Mark Bevan - Structural Soils
+- Jackie Bland(chair) - Geotechnics 
+- Neil Chadwick - Arup
+- Jerome Chamfray - Atkins
+- Roger Chandler - Keynetix
+- Tony Daly - Amageo
+- David Entwisle - British Geological Survey
+- David Farmer - Arup
+- Ian Joyce - Bentley Systems
+- Ian Linton - Soil Engineering Geoservices Ltd
+- Simon Miles - Atkins
+- Mike Palmer - CH2M
+- Christopher Power - Mott MacDonald
+- Syd Pycroft - Blue Anchor Ground Engineering Ltd
+- Felicity Sims - CH2M
+- Leonard Threadgold - Geotechnics
+- Sarah Valentine - ESG
+- Stephen Walthall
+- Benjamin Wood - British Geological Survey
 
 The copyright notice displayed in this document indicates when the document was last issued.
 
