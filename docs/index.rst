@@ -1,9 +1,7 @@
-Welcome to AGS Data Format documentation!
-==================================================
-
 Electronic Transfer of Geotechnical and Geoenvironmental Data using AGS4 
+=========================================================================
 
-This Documentation provides detailed instuctions on the AGS data format 
+This Documentation provides detailed instuctions on the use and implementation of the AGS data format 
 
 Published by Association of Geotechnical and Geoenvironmental Specialists
 
